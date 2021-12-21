@@ -1,0 +1,14 @@
+body{
+    background-color: #353535;
+}
+
+.button{
+    padding: 5px;
+    margin-right: 5px;
+    display: inline-block;
+}
+
+.centering-btn{
+    text-align: center;
+    position: relative;
+}
